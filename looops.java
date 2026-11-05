@@ -1,5 +1,5 @@
 import java.util.*;
-public class Lecture4 {
+public class looops {
     public static void main(String args[]){
         // FOR LOOP
         // Counter++ =>  Counter = Counter + 1
